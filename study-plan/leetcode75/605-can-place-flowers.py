@@ -1,4 +1,4 @@
-# cf. Approach #1 in Editorial
+# cf. Editorial: Approach #1
 
 
 class Solution:
