@@ -9,8 +9,11 @@
 - [Programming Skills](https://leetcode.com/studyplan/programming-skills/)
 - [Premium Algo 100](https://leetcode.com/studyplan/premium-algo-100/)
 - [Dynamic Programming](https://leetcode.com/studyplan/dynamic-programming/)
+- [Dynamic Programming Grandmaster](https://leetcode.com/studyplan/dynamic-programming-grandmaster/)
 - [Google Spring' 23 High Frequency](https://leetcode.com/studyplan/google-spring-23-high-frequency/)
 - [Amazon Spring '23 High Frequency](https://leetcode.com/studyplan/amazon-spring-23-high-frequency/)
+- [TikTok Spring '23 High Frequency](https://leetcode.com/studyplan/tiktok-spring-23-high-frequency/)
+- [Apple Spring '23 High Frequency](https://leetcode.com/studyplan/apple-spring-23-high-frequency/)
 
 ## Algorithms 
 - [Array](https://leetcode.com/tag/array/)
@@ -42,7 +45,3 @@
 - [Tree](https://leetcode.com/tag/tree/)
 - [Trie](https://leetcode.com/tag/trie/)
 - [Two Pointers](https://leetcode.com/tag/two-pointers/)
-
-
-## Database
-- SQL
